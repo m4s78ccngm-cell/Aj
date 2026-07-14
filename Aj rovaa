@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://dexapi1.up.railway.app/dexchilli"))()
+loadstring(game:HttpGet("https://rovaapi1.up.railway.app/rovachilli"))()
